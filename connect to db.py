@@ -1,3 +1,10 @@
+"""
+IMPORTANT NOTICE:
+
+Please DO NOT connect this database under NUS campus Wifi. There are unknown limitations from campus Wifi
+which disable your connection. Use other Wifi or personal data hotpot instead.
+"""
+
 # pip install mysql-connector-python
 
 import mysql.connector
